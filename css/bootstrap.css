@@ -76,18 +76,10 @@ hr {
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0.5rem;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   font-weight: 900;
 }
 
-@-webkit-keyframes glow {
-  from {
-    text-shadow: 0 0 5px #fff, 0 0 5px #fff, 0 0 5px #ffffff, 0 0 5px #ffffff, 0 0 5px #ffffff, 0 0 5px #7d7d67, 0 0 5px #55564b;
-  }
-  to {
-    text-shadow: 0 0 10px #fff, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000;
-  }
-}
 
 p {
   margin-top: 0;
