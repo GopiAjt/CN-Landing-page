@@ -32,7 +32,7 @@ body {
 /*header section*/
 .hero_area {
   height: 100vh;
-  background-image: url(../banners/banner.jpg);
+  background-image: url(../banners/cn-baner.png);
   /* Add the blur effect */
   /* filter: blur(8px);
   -webkit-filter: blur(8px); */
